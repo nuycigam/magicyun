@@ -1,2 +1,2 @@
-# magicyun
-Just a first repo
+##ÉñÔÆµÄÃÎÏë##
+I have a dream to build my magicworld.
